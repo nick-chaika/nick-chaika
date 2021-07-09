@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Nikolai, I'm frontend developer. You can check my works here:
 
 <!--
 **nick-chaika/nick-chaika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
